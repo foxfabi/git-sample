@@ -26,11 +26,10 @@ git checkout main
 
 ## Grobplan
 
-- [ ] Sinn und Zweck der Versionsverwaltung verstehen
-- [ ] Lokales Repository (Depot/Lager) einrichten (Entweder mittels GitHub Desktop, Visual Studio Code oder 10 Best GUI Git Clients for Mac ;)
-- [ ] Änderungen im lokalen Repository erfassen und verfolgen
-- [ ] Arbeiten im Team mit einem Remote Repository
-
+- [X] Sinn und Zweck der Versionsverwaltung verstehen
+- [X] Lokales Repository (Depot/Lager) einrichten (Entweder mittels GitHub Desktop, Visual Studio Code oder 10 Best GUI Git Clients for Mac ;)
+- [X] Änderungen im lokalen Repository erfassen und verfolgen
+- [X] Arbeiten im Team mit einem Remote Repository
 
 ## Geeignete Dateiformate
 
