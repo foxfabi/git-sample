@@ -5,7 +5,7 @@
 - [ ] Wie man GitHub auf einem Applegerät installiert
       _Git ist nicht github._
 - [X] Inhalt des Modules 287: CSS + CSS Frameworks
-- [ ] Fachspezifischen Worte gehören dazu. Step by Step Dictionary erweitern
+- [X] Fachspezifischen Worte gehören dazu. Step by Step Dictionary erweitern
 - [ ] Wo ich mit Fragen anfangen sollte ... Bei der Wurzel. WTF!? Um was geht es überhaupt ;)
 - [ ] Versionsverwaltung mit GitHub schwierig ....
 
