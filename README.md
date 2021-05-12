@@ -6,14 +6,22 @@
       _Git ist nicht github._
 - [X] Inhalt des Modules 287: CSS + CSS Frameworks
 - [X] Fachspezifischen Worte gehören dazu. Step by Step Dictionary erweitern
-- [ ] Wo ich mit Fragen anfangen sollte ... Bei der Wurzel. WTF!? Um was geht es überhaupt ;)
-- [ ] Versionsverwaltung mit GitHub schwierig ....
+- [X] Wo ich mit Fragen anfangen sollte ... Bei der Wurzel. WTF!? Um was geht es überhaupt ;)
+- [X] Versionsverwaltung mit GitHub schwierig ....
 
 ```bash
 git init
 git add *.*
 git commit -m "Initial import"
 git push origin main
+
+
+git checkout -b sunflower
+git push origin sunflower
+
+git checkout main
+
+(git merge sunflower main)
 ```
 
 ## Grobplan
