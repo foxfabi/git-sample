@@ -34,3 +34,4 @@ git checkout main
 ## Geeignete Dateiformate
 
 - HTML, CSS, Javascript, SVG, .... XML
+- JSON
